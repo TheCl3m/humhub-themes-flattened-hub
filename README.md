@@ -21,3 +21,4 @@ Clément HUSLER
 
 Originally created by [sashatravkina](https://github.com/sashatravkina). 
 Based on the [FlatHub-V2 Theme](https://github.com/sashatravkina/humhub-themes-flathub-v2).
+With the help of [cluelessphp](https://github.com/cluelessphp).
