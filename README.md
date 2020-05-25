@@ -1,7 +1,7 @@
 # [HumHub](https://github.com/humhub/humhub) Flattened Hub Theme
 Flattened Hub - Modern theme for **HumHub 1.5** and and higher. 
-![FlattenedHub](https://i.ibb.co/LND29JY/Capture-d-cran-2020-05-22-22-30-54.png)
-![DarkMode](https://i.ibb.co/TPttbjV/Capture-d-cran-2020-05-22-22-31-01.png)
+![FlattenedHub](https://i.ibb.co/zhytG44/Capture-d-cran-2020-05-25-12-16-41.png)
+![DarkMode](https://i.ibb.co/P5m7bZz/Capture-d-cran-2020-05-25-12-16-48.png)
 ## Features
 - Light flat modern design
 - Dark mode
